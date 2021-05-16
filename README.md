@@ -1,3 +1,5 @@
+<img alt="Nyan Cat" src="https://media1.tenor.com/images/806fa85fc55a55de66ab310e500b5f0f/tenor.gif?itemid=5716621" width=50%>
+
 # Hi, my name is **Indra**! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### I am a Technical Sound Designer and Programmer at [Double Shot Audio](https://img.shields.io/badge/Double%20Shot-Audio-lightgrey) :sunglasses:
