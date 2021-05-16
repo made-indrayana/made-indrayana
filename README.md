@@ -2,7 +2,7 @@
 
 # Hi, my name is **Indra**! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### I am a Technical Sound Designer and Programmer at [Double Shot Audio](https://img.shields.io/badge/Double%20Shot-Audio-lightgrey) :sunglasses:
+### I am a Technical Sound Designer and Programmer at [Double Shot Audio](https://doubleshot-audio.com) :sunglasses:
 
 <br>
 
