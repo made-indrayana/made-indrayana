@@ -8,6 +8,7 @@
 
 ## Office Productivity
 - Firefox
+- Tor Browser
 - Thunderbird
 - Joplin
 - KeepassXC
@@ -25,30 +26,19 @@
 - Parsec
 - OneDrive
 - Nextcloud
+- Dropbox
+- Google Backup
 - Element
 - VLC
 
 ## Video Stuffs
 - kdenlive
 - OBS
+- RecordIt (making gif)
 
 ## Tools
 - ffmpeg
 - youtube-dl
-
-## Windows Tools
-- winget
-- PowerToys
-- CPU-ID
-- GPU-ID
-- MSI Afterburner
-- APFS for Windows
-- HFS for Windows
-- Sidequest
-
-## Mac Tools
-- Spectacle / Rectangle
-- homebrew
  
  ## Coding and Stuff
 - Qt (?)
@@ -70,3 +60,23 @@
 - Reaper
 - RME Fireface UFX Driver
 - RME Digicheck
+- Room EQ Wizard
+- 
+
+## Windows Tools
+- winget
+- PowerToys
+- CPU-ID
+- GPU-ID
+- MSI Afterburner
+- APFS for Windows
+- HFS for Windows
+- Sidequest
+
+## Mac Tools
+- Spectacle / Rectangle
+- homebrew
+- xld
+- CleanMyDrive
+- Metadatics
+- Tagr
