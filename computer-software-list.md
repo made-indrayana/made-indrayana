@@ -1,5 +1,11 @@
 # Computer Software List for new setup (just in case)
 
+## Goals
+- [ ] Create fully automated installation using package manager for Windows
+- [ ] And then for Mac
+- [ ] Add list of Audio VSTs
+- [ ] Reserve this place for more todo
+
 ## Office Productivity
 - Firefox
 - Thunderbird
@@ -21,6 +27,10 @@
 - Nextcloud
 - Element
 - VLC
+
+## Video Stuffs
+- kdenlive
+- OBS
 
 ## Tools
 - ffmpeg
@@ -49,7 +59,14 @@
 - node.js
 - Blender
 
+## VR and Gaming Setup (Windows Only)
+- Oculus
+- SteamVR
+- Epic Games Launcher
+
 ## Audio Tools
 - Nuendo 11
 - Audacity
 - Reaper
+- RME Fireface UFX Driver
+- RME Digicheck
