@@ -74,6 +74,7 @@
 - Sidequest
 
 ## Mac Tools
+- brewlet (Applet for brew.sh, super nice!)
 - Spectacle / Rectangle
 - homebrew
 - xld
